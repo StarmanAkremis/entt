@@ -167,6 +167,7 @@ I hope the following lists can grow much more in the future.
     organized as an ECS.
   * [MushMachine](https://github.com/MadeOfJelly/MushMachine): engine...
     vrooooommm.
+    [KODZA](https://gitlab.com/arqitek/kodza): A work in progress game engine made by Arqitek.
   * [Antara Gaming SDK](https://github.com/KomodoPlatform/antara-gaming-sdk):
     the Komodo Gaming Software Development Kit.
   * [XVP](https://ravingbots.com/xvp-expansive-vehicle-physics-for-unreal-engine/):
